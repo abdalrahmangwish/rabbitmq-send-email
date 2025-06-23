@@ -15,10 +15,3 @@ Ensure you have the following installed:
 - [Docker](https://www.docker.com/)
 - PostgreSQL (you can also run it via Docker)
 ## 🔧 Setup Instructions
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/rabbitmq-send-email.git
-cd rabbitmq-send-email
-npm install
